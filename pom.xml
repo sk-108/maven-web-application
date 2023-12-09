@@ -97,14 +97,14 @@
 	
 	    <repository>
 	      <id>nexus</id>
-	      <name>Mithun Technologies Releases Nexus Repository</name>
-	      <url>http://54.255.174.111:8081/repository/flipkart-release/</url>
+	      <name>sourav Releases Nexus Repository</name>
+	      <url>https://github.com/sk-108/maven-web-application.git</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
-	      <name>Mithun Technologies Snapshot Nexus Repository </name>
-	      <url>http://54.255.174.111:8081/repository/flipkart-snapshot/</url>
+	      <name>sourav Snapshot Nexus Repository </name>
+	      <url>https://github.com/sk-108/maven-web-application.git</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
